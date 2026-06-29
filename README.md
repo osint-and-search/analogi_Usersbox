@@ -77,4 +77,4 @@ Usersbox представляет собой инструмент для пои�
 
 Информация предоставляется «как есть» и служит исключительно для понимания угроз приватности и грамотного использования OSINT-инструментов.
 
-[Лучшие Телеграм боты для поиска информации](https://github.com/osint-and-search/analogi_Glaza_Boga)
+[Вернуться к каталогу OSINT-инструментов](https://github.com/osint-and-search/poiskovie_i_OSINT_instrumenti)
