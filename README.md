@@ -28,7 +28,7 @@ UsersBox — Telegram-бот (**В НАСТОЯЩЕЕ ВРЕМЯ НЕ РАБОТ
 
 | Метки  | Ссылка | Описание  |
 |----------|------------------------------------------------------------------|----------------------------------------|
-| 📲🪙🆓|  [Sherlock](https://telegram.me/Doks_ferlok_bot?start=_ref_9pyalm_JJwlz5) | Оптимальная замена UsersBox с доступными ценами и обширными базами данных.|
+| 📲🪙🆓|  [Sherlock](https://telegram.me/ifewmhctvihernigrubot?start=_ref_9pyalm_JJwlz5) | Оптимальная замена UsersBox с доступными ценами и обширными базами данных.|
 | 📲♻️🆓|  [Vektor](https://telegram.me/Bigibik_bot?start=r_eFGr1BT2b5)          | Современный бот с качественными источниками для проведения проверок.|
 | 📲🪙   |  [Enigma](https://telegram.me/ynigmasscflbot?start=C96FP5YS)           | Инструмент анализа и поиска с редкими и уникальными наборами данных.|
 | 📲🪙   |  [Himera](https://telegram.me/Jhcffffvj_bot?start=406840159)       | Сервис, работающий в рамках российского законодательства, однако отличающийся более высокой стоимостью.|
